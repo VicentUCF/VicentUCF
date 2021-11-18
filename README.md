@@ -24,6 +24,6 @@ const Vicent = {
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vicentucf&show_icons=true&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vicentucf&show_icons=true&theme=gruvbox" />
 
 ⭐️ From [@VicentUCF](https://github.com/VicentUCF)
