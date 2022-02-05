@@ -13,9 +13,9 @@
 
 ```javascript
 const Vicent = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, PHP, Java],
-  tools: [Vue, Node, Laravel, Boostrap, Docker],
+  code: [JS, HTML, CSS, PHP, Java],
+  tools: [Vue, Node, Laravel, Boostrap, Docker, Git],
+  interets: [CyberSecurity, Calistenia,Linux, Video Games, Marvel ]
  
  challenge: "I am majoring in Backend Development"
 }
