@@ -15,9 +15,8 @@
 const vicent = {
   code: [JS, HTML, CSS, PHP, Java],
   WebDev Stack: [Angular, Node, Tailwind, Docker, Git, RXJS, Redux],
-  interets: [CyberSecurity, Calistenia,Linux, Video Games, Marvel ]
- 
- challenge: "Mastering advanced frontend technologies and frameworks to create cutting-edge web applications"
+  interets: [CyberSecurity, Calistenia,Linux, Video Games, Marvel ],
+  challenge: "Mastering advanced frontend technologies and frameworks to create cutting-edge web applications"
 }
 ```
 
