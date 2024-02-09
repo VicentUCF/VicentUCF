@@ -1,7 +1,7 @@
 <h2> Hi, I'm Vicent Ciscar! <img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux" width=60></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
 
-<p><em>Software Developer Junior at <a href="https://excelia.com/">Excelia</a>
+<p><em>Frontend Developer <a href="https://excelia.com/">Excelia</a>
 </em></p>
 
 [![Twitter: VicentUCF](https://img.shields.io/twitter/follow/Vicent_UCF?style=social)](https://twitter.com/Vicent_UCF)
@@ -12,12 +12,12 @@
 ### <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="25"> A little more about me...  
 
 ```javascript
-const Vicent = {
+const vicent = {
   code: [JS, HTML, CSS, PHP, Java],
-  tools: [Vue, Node, Laravel, Boostrap, Docker, Git],
+  WebDev Stack: [Angular, Node, Tailwind, Docker, Git, RXJS, Redux],
   interets: [CyberSecurity, Calistenia,Linux, Video Games, Marvel ]
  
- challenge: "I am majoring in Backend Development"
+ challenge: "Mastering advanced frontend technologies and frameworks to create cutting-edge web applications"
 }
 ```
 
