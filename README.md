@@ -1,8 +1,7 @@
 <h2> Hi, I'm Vicent Ciscar! <img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux" width=60></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
 
-<p><em>Frontend Developer <a href="https://excelia.com/">Excelia</a>
-</em></p>
+<p><em>Frontend Developer</em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-vicentciscar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicentciscar/)](https://www.linkedin.com/in/vicent-ciscar-929a2a20a/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/vicentucf?label=follow&style=social)](https://github.com/VicentUCF)
