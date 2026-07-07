@@ -1,28 +1,103 @@
-<h2> Hi, I'm Vicent Ciscar! <img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux" width=60></h2>
-<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
+<h1 align="left">Hi, I'm Vicent Ciscar</h1>
 
-<p><em>Frontend Developer</em></p>
+<p align="left">
+  <strong>Frontend / Full Stack Developer</strong><br />
+  Angular · TypeScript · Node.js · Enterprise Applications · AI Integration
+</p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-vicentciscar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicentciscar/)](https://www.linkedin.com/in/vicent-ciscar-929a2a20a/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/vicentucf?label=follow&style=social)](https://github.com/VicentUCF)
-
-
-### <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="25"> A little more about me...  
-
-```javascript
-const vicent = {
-  code: [JS, HTML, CSS, PHP, Java],
-  WebDev Stack: [Angular, Node, Tailwind, Docker, Git, RXJS, Redux],
-  interets: [CyberSecurity, Calistenia,Linux, Video Games, Marvel ],
-  challenge: "Mastering advanced frontend technologies and frameworks
-              to create cutting-edge web applications"
-}
-```
-
-<img src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="60"> <em><b>I like to resolve problems </b> so if you have one <b>I'll be happy to help you!</b> :)</em>
+<p align="left">
+  <a href="https://www.linkedin.com/in/vicent-ciscar-929a2a20a/">
+    <img src="https://img.shields.io/badge/LinkedIn-vicentciscar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/VicentUCF">
+    <img src="https://img.shields.io/github/followers/VicentUCF?label=GitHub&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</p>
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=vicentucf&show_icons=true&theme=gruvbox" />
+## About me
 
-⭐️ From [@VicentUCF](https://github.com/VicentUCF)
+I'm a Frontend / Full Stack Developer focused on building scalable, maintainable and user-centered web applications.
+
+I have experience working on enterprise environments, design systems, dashboards, real-time interfaces and frontend-backend integrations. My main stack is Angular, TypeScript, RxJS and Node.js, with growing interest in AI-powered applications and automation workflows.
+
+```ts
+const vicent = {
+  role: 'Frontend / Full Stack Developer',
+  location: 'Valencia, Spain',
+  mainStack: ['Angular', 'TypeScript', 'RxJS', 'Node.js'],
+  frontend: ['HTML', 'SCSS', 'Tailwind CSS', 'Angular Material', 'PrimeNG'],
+  backend: ['Node.js', 'NestJS', 'REST APIs', 'PostgreSQL'],
+  tools: ['Git', 'Docker', 'GitHub Actions', 'Jest', 'Playwright'],
+  interests: ['AI integration', 'Cybersecurity', 'Linux', 'Sports tech'],
+  currentFocus: [
+    'Advanced Angular architecture',
+    'Enterprise frontend performance',
+    'AI-assisted development',
+    'Full stack product building'
+  ]
+};
+```
+
+---
+
+## Tech stack
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,tailwind" alt="Frontend stack" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,docker" alt="Backend stack" />
+</p>
+
+### Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" alt="Tools" />
+</p>
+
+---
+
+## What I like to build
+
+* Enterprise web applications with clean architecture.
+* Complex Angular interfaces with reusable components.
+* Dashboards, admin panels and real-time UIs.
+* Design-system based products.
+* AI-integrated workflows using APIs, structured outputs and internal data.
+* Sports-tech tools and web platforms.
+
+---
+
+## Current goals
+
+* Deepen my Angular and TypeScript expertise.
+* Improve software architecture and testing practices.
+* Build stronger full stack products.
+* Keep improving my English for international opportunities.
+* Contribute to useful, polished and production-ready projects.
+
+---
+
+## GitHub stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VicentUCF&show_icons=true&theme=github_dark&hide_border=true" alt="Vicent's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicentUCF&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vicent-ciscar-929a2a20a/">LinkedIn</a> ·
+  <a href="https://github.com/VicentUCF">GitHub</a>
+</p>
