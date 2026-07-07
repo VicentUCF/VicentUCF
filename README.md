@@ -4,7 +4,6 @@
 <p><em>Frontend Developer <a href="https://excelia.com/">Excelia</a>
 </em></p>
 
-[![Twitter: VicentUCF](https://img.shields.io/twitter/follow/Vicent_UCF?style=social)](https://twitter.com/Vicent_UCF)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-vicentciscar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicentciscar/)](https://www.linkedin.com/in/vicent-ciscar-929a2a20a/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/vicentucf?label=follow&style=social)](https://github.com/VicentUCF)
 
